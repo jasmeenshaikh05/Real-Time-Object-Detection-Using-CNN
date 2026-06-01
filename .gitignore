@@ -1,0 +1,10 @@
+venv/
+datasets/
+runs/
+logs/
+
+__pycache__/
+*.pyc
+
+*.pt
+*.pth
